@@ -12,12 +12,12 @@
 </details>  
 <details>
   
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/we_are_legendss)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.me/WeAreLegends3)
 ## How to setup on Heroku 
 For starters click on this button 
 </details>  
 
 
 ## [OWNER RAW😎🔥](http://t.me/unreal_hun_bro)
-## [SUPPORT😎🔥](http://t.me/we_are_legendss)
-## [UPDATES😎🔥](http://t.me/we_are_legendss)
+## [SUPPORT😎🔥](https://t.me/WeAreLegends3)
+## [UPDATES😎🔥](https://t.me/WeAreLegends3)
