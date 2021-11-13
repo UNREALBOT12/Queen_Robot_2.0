@@ -1,9 +1,11 @@
 <h1 align=center>😈𝚀𝚞𝚎𝚎𝚗 𝚁𝚘𝚋𝚘𝚝😈</h1>
-<img src = "https://telegra.ph/file/3c15402ebd1285c22d160.jpg">
+[![Deploy](https://telegra.ph/file/aaa10262ebe6670eecf58.jpg)](https://heroku.com/deploy?template=https://github.com/UNREALBOT12/Queen_Robot_2.0.git)
+# Queen_RoBot
+### Click Below Image to Deploy
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UNREALBOT12/Queen_Robot_2.0)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UNREALBOT12/Queen_Robot_2.0.git)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
