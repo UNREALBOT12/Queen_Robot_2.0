@@ -8,3 +8,16 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UNREALBOT12/Queen_Robot_2.0.git)</p>
 <H2 align=center>___________</h2>
+
+</details>  
+<details>
+  
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/we_are_legendss)
+## How to setup on Heroku 
+For starters click on this button 
+</details>  
+
+
+## [OWNER RAW😎🔥](http://t.me/unreal_hun_bro)
+## [SUPPORT😎🔥](http://t.me/we_are_legendss)
+## [UPDATES😎🔥](http://t.me/we_are_legendss)
