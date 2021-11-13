@@ -72,8 +72,8 @@ buttons = [
         InlineKeyboardButton(
             text="𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐏𝐥𝐚𝐜𝐞😇", url="t.me/Queen_X_RoBot?startgroup=true"),
     ],
-     [𝐀𝐛𝐨𝐮𝐭
-        InlineKeyboardButton(text="𝐀𝐛𝐨𝐮𝐭💝", callback_data="evil_"),
+     [
+        InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫💝", url="@unreal_hun_bro"),
         InlineKeyboardButton(
             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥🌐", url="https://t.me/LEGEND_N3TWORK"),
         ),
